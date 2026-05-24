@@ -1,0 +1,79 @@
+nama_sayur,daerah,harga_per_kg,satuan,tanggal_update
+Cabai Merah,Jakarta,45000,kg,2025-05-20
+Cabai Merah,Bandung,42000,kg,2025-05-20
+Cabai Merah,Surabaya,47000,kg,2025-05-20
+Cabai Merah,Yogyakarta,40000,kg,2025-05-20
+Cabai Merah,Medan,50000,kg,2025-05-20
+Cabai Merah,Makassar,48000,kg,2025-05-20
+Cabai Rawit,Jakarta,65000,kg,2025-05-20
+Cabai Rawit,Bandung,60000,kg,2025-05-20
+Cabai Rawit,Surabaya,68000,kg,2025-05-20
+Cabai Rawit,Yogyakarta,58000,kg,2025-05-20
+Cabai Rawit,Medan,70000,kg,2025-05-20
+Cabai Rawit,Makassar,67000,kg,2025-05-20
+Bawang Merah,Jakarta,35000,kg,2025-05-20
+Bawang Merah,Bandung,32000,kg,2025-05-20
+Bawang Merah,Surabaya,33000,kg,2025-05-20
+Bawang Merah,Yogyakarta,30000,kg,2025-05-20
+Bawang Merah,Medan,38000,kg,2025-05-20
+Bawang Merah,Makassar,36000,kg,2025-05-20
+Bawang Putih,Jakarta,38000,kg,2025-05-20
+Bawang Putih,Bandung,36000,kg,2025-05-20
+Bawang Putih,Surabaya,37000,kg,2025-05-20
+Bawang Putih,Yogyakarta,35000,kg,2025-05-20
+Bawang Putih,Medan,40000,kg,2025-05-20
+Bawang Putih,Makassar,39000,kg,2025-05-20
+Tomat,Jakarta,12000,kg,2025-05-20
+Tomat,Bandung,10000,kg,2025-05-20
+Tomat,Surabaya,13000,kg,2025-05-20
+Tomat,Yogyakarta,11000,kg,2025-05-20
+Tomat,Medan,14000,kg,2025-05-20
+Tomat,Makassar,12500,kg,2025-05-20
+Bayam,Jakarta,8000,kg,2025-05-20
+Bayam,Bandung,7000,kg,2025-05-20
+Bayam,Surabaya,8500,kg,2025-05-20
+Bayam,Yogyakarta,7500,kg,2025-05-20
+Bayam,Medan,9000,kg,2025-05-20
+Bayam,Makassar,8000,kg,2025-05-20
+Kangkung,Jakarta,6000,kg,2025-05-20
+Kangkung,Bandung,5500,kg,2025-05-20
+Kangkung,Surabaya,6500,kg,2025-05-20
+Kangkung,Yogyakarta,5000,kg,2025-05-20
+Kangkung,Medan,7000,kg,2025-05-20
+Kangkung,Makassar,6000,kg,2025-05-20
+Wortel,Jakarta,15000,kg,2025-05-20
+Wortel,Bandung,13000,kg,2025-05-20
+Wortel,Surabaya,14000,kg,2025-05-20
+Wortel,Yogyakarta,12000,kg,2025-05-20
+Wortel,Medan,16000,kg,2025-05-20
+Wortel,Makassar,15000,kg,2025-05-20
+Kentang,Jakarta,18000,kg,2025-05-20
+Kentang,Bandung,15000,kg,2025-05-20
+Kentang,Surabaya,17000,kg,2025-05-20
+Kentang,Yogyakarta,16000,kg,2025-05-20
+Kentang,Medan,20000,kg,2025-05-20
+Kentang,Makassar,19000,kg,2025-05-20
+Kubis,Jakarta,10000,kg,2025-05-20
+Kubis,Bandung,8000,kg,2025-05-20
+Kubis,Surabaya,11000,kg,2025-05-20
+Kubis,Yogyakarta,9000,kg,2025-05-20
+Kubis,Medan,12000,kg,2025-05-20
+Kubis,Makassar,10500,kg,2025-05-20
+Sawi,Jakarta,8000,kg,2025-05-20
+Sawi,Bandung,7000,kg,2025-05-20
+Sawi,Surabaya,8500,kg,2025-05-20
+Sawi,Yogyakarta,7000,kg,2025-05-20
+Sawi,Medan,9000,kg,2025-05-20
+Sawi,Makassar,8000,kg,2025-05-20
+Timun,Jakarta,7000,kg,2025-05-20
+Timun,Bandung,6000,kg,2025-05-20
+Timun,Surabaya,7500,kg,2025-05-20
+Timun,Yogyakarta,6000,kg,2025-05-20
+Timun,Medan,8000,kg,2025-05-20
+Timun,Makassar,7000,kg,2025-05-20
+Terong,Jakarta,9000,kg,2025-05-20
+Terong,Bandung,8000,kg,2025-05-20
+Terong,Surabaya,9500,kg,2025-05-20
+Terong,Yogyakarta,7500,kg,2025-05-20
+Terong,Medan,10000,kg,2025-05-20
+Terong,Makassar,9000,kg,2025-05-20

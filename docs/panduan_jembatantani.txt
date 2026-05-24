@@ -1,0 +1,113 @@
+PANDUAN PENGGUNAAN APLIKASI JEMBATANTANI
+=========================================
+
+TENTANG JEMBATANTANI
+---------------------
+Jembatani adalah platform digital yang menghubungkan petani secara langsung dengan konsumen di seluruh Indonesia. Tujuan kami adalah memotong rantai distribusi yang panjang sehingga petani mendapatkan harga jual yang lebih baik dan konsumen mendapatkan sayuran segar dengan harga yang lebih terjangkau.
+
+DAFTAR AKUN
+-----------
+1. Unduh aplikasi Jembatani di Google Play Store atau App Store.
+2. Buka aplikasi dan klik tombol "Daftar Sekarang".
+3. Pilih jenis akun: "Petani" atau "Konsumen".
+4. Isi data diri: nama lengkap, nomor HP aktif, dan alamat email.
+5. Verifikasi nomor HP dengan kode OTP yang dikirim via SMS.
+6. Untuk akun Petani, lengkapi data tambahan: nama kebun, lokasi kebun, dan jenis komoditas yang dijual.
+7. Akun siap digunakan setelah verifikasi berhasil.
+
+CARA BERJUALAN (UNTUK PETANI)
+------------------------------
+1. Login ke aplikasi dengan nomor HP dan password.
+2. Klik menu "Jual Produk" di halaman utama.
+3. Isi formulir produk: nama sayuran, deskripsi, harga per kg, stok tersedia, dan foto produk.
+4. Tentukan metode pengiriman: antar sendiri, pickup point, atau jasa ekspedisi.
+5. Klik "Publish" untuk menayangkan produk.
+6. Notifikasi akan masuk ketika ada pesanan masuk.
+7. Konfirmasi pesanan dalam waktu maksimal 2 jam.
+8. Siapkan produk sesuai pesanan dan serahkan ke kurir atau pickup point.
+9. Pembayaran akan masuk ke saldo Jembatani dalam 1x24 jam setelah konsumen konfirmasi penerimaan.
+
+CARA BERBELANJA (UNTUK KONSUMEN)
+----------------------------------
+1. Login ke aplikasi dengan akun konsumen.
+2. Di halaman utama, gunakan fitur pencarian atau browse kategori sayuran.
+3. Filter produk berdasarkan daerah asal, harga, atau rating petani.
+4. Klik produk yang diinginkan untuk melihat detail, foto, dan profil petani.
+5. Masukkan jumlah yang ingin dibeli dan klik "Tambah ke Keranjang".
+6. Buka keranjang belanja dan periksa pesanan.
+7. Pilih metode pengiriman dan alamat tujuan.
+8. Pilih metode pembayaran: transfer bank, e-wallet (GoPay, OVO, DANA), atau COD.
+9. Klik "Bayar Sekarang" untuk menyelesaikan pesanan.
+10. Pantau status pesanan di menu "Pesanan Saya".
+
+METODE PEMBAYARAN
+-----------------
+Jembatani mendukung berbagai metode pembayaran:
+- Transfer bank: BCA, Mandiri, BNI, BRI
+- E-wallet: GoPay, OVO, DANA, ShopeePay
+- COD (bayar di tempat) untuk area tertentu
+- Kartu kredit/debit (Visa & Mastercard)
+
+PENGIRIMAN DAN ONGKOS KIRIM
+-----------------------------
+- Pengiriman tersedia ke seluruh Indonesia.
+- Untuk area Jabodetabek, tersedia pengiriman same-day dengan minimum order Rp 50.000.
+- Ongkos kirim dihitung berdasarkan berat dan jarak pengiriman.
+- Tersedia layanan antar gratis untuk pembelian di atas Rp 150.000 (syarat dan ketentuan berlaku).
+- Pickup point tersedia di lebih dari 500 titik di seluruh Indonesia.
+
+RATING DAN ULASAN
+-----------------
+- Setelah menerima pesanan, konsumen dapat memberikan rating bintang (1-5) dan ulasan tertulis.
+- Rating membantu petani lain meningkatkan kualitas produk.
+- Petani dengan rating 4.5 ke atas mendapatkan badge "Petani Terpercaya".
+
+PROGRAM LANGGANAN
+-----------------
+Konsumen dapat berlangganan produk tertentu secara berkala (mingguan/bulanan) dengan harga diskon 5-10%.
+
+CARA MENAMBAH SALDO / TOP UP
+------------------------------
+1. Masuk ke menu "Dompet" di aplikasi.
+2. Klik "Top Up Saldo".
+3. Masukkan nominal top up (minimum Rp 10.000).
+4. Pilih metode pembayaran.
+5. Saldo akan masuk dalam hitungan menit.
+
+CARA TARIK SALDO (UNTUK PETANI)
+---------------------------------
+1. Masuk ke menu "Dompet" di aplikasi.
+2. Klik "Tarik Saldo".
+3. Masukkan nominal penarikan (minimum Rp 50.000).
+4. Pilih rekening bank tujuan.
+5. Dana akan masuk dalam 1x24 jam kerja.
+
+KEBIJAKAN PENGEMBALIAN PRODUK
+-------------------------------
+- Konsumen dapat mengajukan komplain dalam 24 jam setelah produk diterima.
+- Syarat komplain: produk rusak, tidak sesuai pesanan, atau kualitas sangat buruk.
+- Dokumentasikan dengan foto dan kirim melalui fitur "Laporkan Masalah".
+- Tim Jembatani akan memproses dalam 1x24 jam.
+- Jika terbukti, konsumen mendapat refund penuh atau penggantian produk.
+
+KONTAK DAN BANTUAN
+-------------------
+- Email: bantuan@jembatantani.id
+- WhatsApp: 0812-3456-7890 (Senin-Sabtu, 08.00-20.00 WIB)
+- Chat langsung di aplikasi: menu "Bantuan" → "Chat dengan CS"
+- FAQ lengkap tersedia di aplikasi menu "Pusat Bantuan"
+
+PROGRAM MITRA PETANI
+---------------------
+Petani yang bergabung sebagai Mitra Petani Jembatani mendapatkan:
+- Pelatihan budidaya dan pertanian modern
+- Akses ke pupuk dan bibit berkualitas dengan harga terjangkau
+- Asuransi gagal panen
+- Dukungan teknis dari tim ahli pertanian
+
+KEAMANAN AKUN
+--------------
+- Gunakan password yang kuat (minimal 8 karakter, kombinasi huruf dan angka).
+- Aktifkan verifikasi dua langkah (2FA) di menu "Keamanan".
+- Jangan bagikan kode OTP kepada siapa pun, termasuk yang mengaku tim Jembatani.
+- Jika akun diretas atau mencurigakan, segera hubungi CS.
